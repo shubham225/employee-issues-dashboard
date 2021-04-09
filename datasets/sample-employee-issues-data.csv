@@ -1,0 +1,351 @@
+IssueID,Responsible,Status,Severity,Reporter,Assignee,CreatedDate,CustomerName,Priority,Summary,ClosedDate,Type
+123456,Employee - 01,Open,Major,Employee - 06,-,27-01-2021 08:42,Customer - 001,High,Summery Issue - 100,13-01-2021 06:42,Defect
+123457,Employee - 01,Closed,Major,Employee - 07,-,03-02-2021 12:39,Customer - 002,High,Summery Issue - 101,13-01-2021 22:58,Development
+123458,Employee - 01,Open,Major,Employee - 08,-,04-02-2021 12:39,Customer - 003,High,Summery Issue - 102,13-01-2021 13:02,Bug
+123459,Employee - 01,Closed,Major,Employee - 07,-,05-02-2021 12:39,Customer - 004,High,Summery Issue - 103,13-01-2021 04:21,Development
+123460,Employee - 01,Open,Major,Employee - 09,-,06-02-2021 12:39,Customer - 005,High,Summery Issue - 104,13-01-2021 08:57,Database
+123461,Employee - 01,Open,Major,Employee - 07,-,21-02-2021 08:15,Customer - 006,High,Summery Issue - 105,14-01-2021 00:28,Defect
+123462,Employee - 01,Open,Major,Employee - 10,-,17-01-2021 13:40,Customer - 007,High,Summery Issue - 106,13-01-2021 06:37,Defect
+123463,Employee - 01,Awaiting,Major,Employee - 11,-,16-12-2020 09:10,Customer - 008,High,Summery Issue - 107,13-01-2021 12:31,Development
+123464,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,04-12-2020 12:02,Customer - 009,Low,Summery Issue - 108,13-01-2021 04:22,QA
+123465,Employee - 01,On Hold,Major,Employee - 12,-,11-02-2021 16:50,Customer - 005,High,Summery Issue - 109,13-01-2021 03:54,Development
+123466,Employee - 03,On Hold,-,Employee - 13,Employee - 19,12-03-2021 13:33,Customer - 008,-,Summery Issue - 110,13-01-2021 12:30,Defect
+123467,Employee - 01,On Hold,Minor,Employee - 14,-,05-03-2021 11:48,Customer - 010,Medium,Summery Issue - 111,13-01-2021 03:57,Development
+123468,Employee - 01,On Hold,Critical Error,Employee - 11,-,25-02-2021 08:51,Customer - 001,High,Summery Issue - 112,13-01-2021 04:00,Development
+123469,Employee - 01,Closed,Major,Employee - 15,-,06-03-2021 15:05,Customer - 011,Medium,Summery Issue - 113,13-01-2021 04:02,Development
+123470,Employee - 02,Closed,Critical Error,Employee - 16,Employee - 16,02-02-2021 13:36,Customer - 009,High,Summery Issue - 114,13-01-2021 04:04,Maintainance
+123471,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,24-12-2020 10:23,Customer - 009,Low,Summery Issue - 115,13-01-2021 04:12,QA
+123472,Employee - 01,Closed,Major,Employee - 17,Employee - 072,12-12-2020 11:48,Customer - 001,High,Summery Issue - 116,13-01-2021 02:49,Defect
+123473,Employee - 01,Open,-,Employee - 18,-,12-02-2021 13:42,Customer - 009,-,Summery Issue - 117,13-01-2021 07:33,Defect
+123474,Employee - 01,Closed,-,Employee - 19,Employee - 19,05-12-2020 09:45,Customer - 009,-,Summery Issue - 118,13-01-2021 06:13,Defect
+123475,Employee - 01,Closed,Major,Employee - 20,-,09-01-2021 13:03,Customer - 010,Medium,Summery Issue - 119,13-01-2021 06:10,Development
+123476,Employee - 01,Open,Major,Employee - 21,-,03-12-2020 08:22,Customer - 012,High,Summery Issue - 120,13-01-2021 16:05,Development
+123477,Employee - 01,Closed,Major,Employee - 22,-,24-02-2021 10:06,Customer - 002,Medium,Summery Issue - 121,13-01-2021 14:17,Development
+123478,Employee - 01,Closed,Major,Employee - 22,-,28-02-2021 16:49,Customer - 002,Medium,Summery Issue - 122,13-01-2021 14:13,Development
+123479,Employee - 04,Closed,Major,Employee - 23,-,20-12-2020 10:07,Customer - 011,High,Summery Issue - 123,13-01-2021 07:35,Development
+123480,Employee - 04,Closed,-,Employee - 24,Employee - 24,03-02-2021 14:49,Customer - 009,-,Summery Issue - 124,13-01-2021 18:58,Development
+123481,Employee - 04,Open,-,Employee - 24,Employee - 24,11-12-2020 14:20,Customer - 009,-,Summery Issue - 125,13-01-2021 18:59,Development
+123482,Employee - 04,Open,Major,Employee - 25,Employee - 073,29-01-2021 16:05,Customer - 016,High,Summery Issue - 126,13-01-2021 06:39,Maintainance
+123483,Employee - 03,Closed,Major,Employee - 26,Employee - 16,18-02-2021 12:07,Customer - 015,High,Summery Issue - 127,13-01-2021 04:12,Defect
+123484,Employee - 02,Closed,Critical Error,Employee - 16,Employee - 16,08-02-2021 11:32,Customer - 009,High,Summery Issue - 128,14-01-2021 01:29,Defect
+123485,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,02-12-2020 14:24,Customer - 009,Low,Summery Issue - 129,13-01-2021 08:44,QA
+123486,Employee - 03,Closed,Major,Employee - 26,Employee - 16,25-02-2021 11:51,Customer - 007,High,Summery Issue - 130,13-01-2021 20:11,Defect
+123487,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,25-01-2021 11:52,Customer - 009,Low,Summery Issue - 131,13-01-2021 20:17,QA
+123488,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,28-12-2020 13:09,Customer - 009,Low,Summery Issue - 132,13-01-2021 12:17,QA
+123489,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,19-01-2021 15:03,Customer - 009,Low,Summery Issue - 133,12-01-2021 19:55,QA
+123490,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,22-01-2021 10:40,Customer - 009,Low,Summery Issue - 134,12-01-2021 04:42,QA
+123491,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,22-01-2021 12:11,Customer - 009,Low,Summery Issue - 135,12-01-2021 06:18,QA
+123492,Employee - 01,In Progress,Critical Error,Employee - 27,Employee - 075,02-02-2021 09:40,Customer - 007,High,Summery Issue - 136,12-01-2021 06:32,To-Do
+123493,Employee - 09,Closed,Major,Employee - 28,Employee - 069,01-02-2021 10:26,Customer - 018,High,Summery Issue - 137,12-01-2021 07:53,To-Do
+123494,Employee - 04,Open,-,Employee - 29,Employee - 077,18-03-2021 08:55,Customer - 009,-,Summery Issue - 138,12-01-2021 09:58,Maintainance
+123495,Employee - 04,Closed,-,Employee - 30,Employee - 30,15-03-2021 16:14,Customer - 009,-,Summery Issue - 139,12-01-2021 12:10,Custom-Type
+123496,Employee - 04,Resolved,-,Employee - 31,Employee - 31,15-02-2021 10:59,Customer - 009,-,Summery Issue - 140,13-01-2021 01:12,Maintainance
+123497,Employee - 01,Closed,Minor,Employee - 32,Employee - 078,17-12-2020 12:03,Customer - 009,High,Summery Issue - 141,13-01-2021 01:36,Bug
+123498,Employee - 01,Closed,-,Employee - 33,Employee - 078,06-12-2020 09:52,Customer - 009,High,Summery Issue - 142,12-01-2021 14:19,Recruitment
+123499,Employee - 03,Open,-,Employee - 13,Employee - 075,13-02-2021 15:55,Customer - 003,Medium,Summery Issue - 143,13-01-2021 20:19,Defect
+123500,Employee - 01,Open,Major,Employee - 34,Employee - 078,26-02-2021 16:50,Customer - 009,High,Summery Issue - 144,12-01-2021 07:56,Bug
+123501,Employee - 01,Closed,Major,Employee - 35,Employee - 36,29-12-2020 08:22,Customer - 051,High,Summery Issue - 145,13-01-2021 06:00,To-Do
+123502,Employee - 02,Closed,-,Employee - 36,Employee - 36,14-02-2021 16:45,Customer - 009,High,Summery Issue - 146,13-01-2021 10:21,Defect
+123503,Employee - 03,Closed,-,Employee - 36,Employee - 36,07-02-2021 13:48,Customer - 005,High,Summery Issue - 147,13-01-2021 08:20,Defect
+123504,Employee - 02,Resolved,-,Employee - 36,Employee - 36,12-03-2021 08:05,Customer - 004,High,Summery Issue - 148,13-01-2021 03:40,Recovery
+123505,Employee - 02,Resolved,-,Employee - 36,Employee - 36,13-03-2021 08:05,Customer - 009,High,Summery Issue - 149,12-01-2021 07:45,Custom-Type
+123506,Employee - 04,Closed,-,Employee - 37,Employee - 37,14-03-2021 08:05,Customer - 009,-,Summery Issue - 150,12-01-2021 04:36,Custom-Type
+123507,Employee - 04,Closed,-,Employee - 38,Employee - 38,15-03-2021 08:05,Customer - 009,-,Summery Issue - 151,12-01-2021 04:38,Maintainance
+123508,Employee - 04,Closed,-,Employee - 38,Employee - 38,16-03-2021 08:05,Customer - 009,-,Summery Issue - 152,12-01-2021 04:40,Maintainance
+123509,Employee - 04,Open,-,Employee - 38,Employee - 38,05-12-2020 10:59,Customer - 009,-,Summery Issue - 153,13-01-2021 00:39,Maintainance
+123510,Employee - 04,Closed,-,Employee - 39,Employee - 39,21-12-2020 14:23,Customer - 020,-,Summery Issue - 154,13-01-2021 12:29,Development
+123511,Employee - 01,Closed,-,Employee - 40,Employee - 070,25-01-2021 16:36,Customer - 009,-,Summery Issue - 155,13-01-2021 11:05,Development
+123512,Employee - 05,Open,Major,Employee - 41,Employee - 071,30-12-2020 13:44,Customer - 009,High,Summery Issue - 156,13-01-2021 09:58,Project
+123513,Employee - 01,Open,Major,Employee - 42,Employee - 070,03-03-2021 08:18,Customer - 015,High,Summery Issue - 157,12-01-2021 08:34,Development
+123514,Employee - 01,Open,Critical Error,Employee - 07,Employee - 070,18-03-2021 10:21,Customer - 019,High,Summery Issue - 158,12-01-2021 05:27,Defect
+123515,Employee - 01,Closed,Critical Error,Employee - 43,Employee - 39,24-01-2021 11:14,Customer - 004,High,Summery Issue - 159,12-01-2021 05:00,Development
+123516,Employee - 01,Open,-,Employee - 44,Employee - 39,22-01-2021 15:46,Customer - 020,-,Summery Issue - 160,13-01-2021 05:51,Development
+123517,Employee - 01,Open,Major,Employee - 07,Employee - 39,06-12-2020 08:57,Customer - 002,High,Summery Issue - 161,13-01-2021 05:22,Development
+123518,Employee - 01,Open,Critical Error,Employee - 45,Employee - 39,12-03-2021 16:44,Customer - 020,High,Summery Issue - 162,12-01-2021 05:44,Development
+123519,Employee - 04,Closed,-,Employee - 46,Employee - 46,13-03-2021 16:44,Customer - 009,-,Summery Issue - 163,12-01-2021 01:05,Maintainance
+123520,Employee - 04,Closed,-,Employee - 18,Employee - 18,14-03-2021 16:44,Customer - 009,-,Summery Issue - 164,12-01-2021 04:16,Development
+123521,Employee - 04,Closed,-,Employee - 18,Employee - 18,15-03-2021 16:44,Customer - 009,-,Summery Issue - 165,12-01-2021 01:05,Maintainance
+123522,Employee - 01,Closed,-,Employee - 47,Employee - 18,16-03-2021 16:44,Customer - 009,-,Summery Issue - 166,12-01-2021 07:32,Development
+123523,Employee - 01,Closed,Major,Employee - 48,-,13-12-2020 12:07,Customer - 007,Medium,Summery Issue - 167,12-01-2021 08:08,Maintainance
+123524,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,25-01-2021 08:12,Customer - 009,Low,Summery Issue - 168,12-01-2021 08:44,QA
+123525,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,17-12-2020 14:47,Customer - 009,Low,Summery Issue - 169,12-01-2021 12:43,QA
+123526,Employee - 02,Closed,Critical Error,Employee - 16,Employee - 16,28-01-2021 09:21,Customer - 009,High,Summery Issue - 170,12-01-2021 15:10,Defect
+123527,Employee - 01,Closed,Major,Employee - 50,Employee - 24,29-01-2021 09:21,Customer - 009,High,Summery Issue - 171,13-01-2021 00:53,Maintainance
+123528,Employee - 01,Closed,Minor,Employee - 49,-,30-01-2021 09:21,Customer - 021,Medium,Summery Issue - 172,12-01-2021 08:16,Development
+123529,Employee - 01,Closed,Minor,Employee - 49,-,31-01-2021 09:21,Customer - 021,Medium,Summery Issue - 173,12-01-2021 15:32,Development
+123530,Employee - 01,Open,Minor,Employee - 51,Employee - 24,01-02-2021 09:21,Customer - 021,High,Summery Issue - 174,12-01-2021 08:28,Development
+123531,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,02-02-2021 09:21,Customer - 009,Low,Summery Issue - 175,12-01-2021 17:44,QA
+123532,Employee - 01,Closed,Major,Employee - 52,-,03-02-2021 09:21,Customer - 023,High,Summery Issue - 176,13-01-2021 04:54,Development
+123533,Employee - 03,Closed,-,Employee - 19,Employee - 19,23-01-2021 11:04,Customer - 009,-,Summery Issue - 177,12-01-2021 05:04,Development
+123534,Employee - 01,Closed,Major,Employee - 08,Employee - 24,09-12-2020 09:25,Customer - 022,High,Summery Issue - 178,12-01-2021 08:03,Development
+123535,Employee - 01,Closed,Major,Employee - 48,-,27-12-2020 10:53,Customer - 007,High,Summery Issue - 179,12-01-2021 18:39,Development
+123536,Employee - 01,Closed,Major,Employee - 53,-,18-02-2021 13:14,Customer - 026,High,Summery Issue - 180,12-01-2021 09:15,Development
+123537,Employee - 01,Closed,Major,Employee - 53,-,03-01-2021 10:12,Customer - 026,High,Summery Issue - 181,13-01-2021 01:58,Development
+123538,Employee - 01,Closed,Major,Employee - 12,Employee - 24,20-12-2020 09:07,Customer - 005,High,Summery Issue - 182,12-01-2021 06:38,Development
+123539,Employee - 01,Closed,Major,Employee - 09,-,11-01-2021 10:55,Customer - 028,High,Summery Issue - 183,12-01-2021 06:12,Development
+123540,Employee - 02,Closed,Critical Error,Employee - 02,Employee - 16,01-12-2020 13:40,Customer - 009,-,Summery Issue - 184,13-01-2021 00:16,Maintainance
+123541,Employee - 01,Closed,-,Employee - 54,-,07-12-2020 11:44,Customer - 009,-,Summery Issue - 185,14-01-2021 01:06,Defect
+123542,Employee - 04,Closed,-,Employee - 24,Employee - 24,29-01-2021 11:16,Customer - 009,-,Summery Issue - 186,13-01-2021 05:38,Development
+123543,Employee - 03,Closed,Major,Employee - 55,Employee - 16,30-12-2020 11:26,Customer - 029,High,Summery Issue - 187,13-01-2021 15:50,Defect
+123544,Employee - 03,Closed,Major,Employee - 55,Employee - 16,10-03-2021 16:22,Customer - 022,High,Summery Issue - 188,11-01-2021 12:44,Defect
+123545,Employee - 03,Closed,Major,Employee - 56,Employee - 16,21-02-2021 12:12,Customer - 030,High,Summery Issue - 189,12-01-2021 14:46,Defect
+123546,Employee - 01,Closed,Major,Employee - 56,Employee - 16,10-12-2020 12:46,Customer - 001,High,Summery Issue - 190,12-01-2021 12:32,Defect
+123547,Employee - 01,Closed,Major,Employee - 57,-,07-01-2021 10:06,Customer - 001,High,Summery Issue - 191,13-01-2021 07:30,Development
+123548,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,25-12-2020 14:58,Customer - 009,Low,Summery Issue - 192,11-01-2021 03:12,QA
+123549,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,17-12-2020 11:41,Customer - 009,Low,Summery Issue - 193,11-01-2021 03:23,QA
+123550,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,18-12-2020 11:41,Customer - 009,Low,Summery Issue - 194,11-01-2021 03:30,QA
+123551,Employee - 09,Closed,Major,Employee - 28,-,19-12-2020 11:41,Customer - 032,Medium,Summery Issue - 195,11-01-2021 03:55,Development
+123552,Employee - 09,Closed,Major,Employee - 28,-,20-12-2020 11:41,Customer - 032,Medium,Summery Issue - 196,11-01-2021 06:40,Development
+123553,Employee - 01,Closed,-,Employee - 58,-,21-12-2020 11:41,Customer - 007,-,Summery Issue - 197,11-01-2021 04:34,Development
+123554,Employee - 01,Closed,Major,Employee - 59,-,02-03-2021 16:23,Customer - 010,Medium,Summery Issue - 198,11-01-2021 05:34,Development
+123555,Employee - 01,Open,Major,Employee - 0107,Employee - 02,12-12-2020 10:56,Customer - 009,High,Summery Issue - 199,11-01-2021 10:49,Development
+123556,Employee - 03,Closed,Major,Employee - 55,Employee - 16,13-12-2020 10:56,Customer - 033,High,Summery Issue - 200,11-01-2021 05:47,Defect
+123557,Employee - 03,Closed,Major,Employee - 55,Employee - 19,14-12-2020 10:56,Customer - 034,High,Summery Issue - 201,11-01-2021 10:43,Defect
+123558,Employee - 03,Closed,Major,Employee - 17,Employee - 19,15-12-2020 10:56,Customer - 023,High,Summery Issue - 202,11-01-2021 06:46,Defect
+123559,Employee - 04,Closed,-,Employee - 0108,Employee - 077,16-12-2020 10:56,Customer - 020,High,Summery Issue - 203,11-01-2021 10:00,Maintainance
+123560,Employee - 01,Closed,-,Employee - 28,Employee - 078,14-01-2021 11:14,Customer - 009,-,Summery Issue - 204,11-01-2021 10:27,QA
+123561,Employee - 01,Closed,-,Employee - 078,Employee - 078,19-01-2021 15:44,Customer - 009,-,Summery Issue - 205,11-01-2021 10:29,Recruitment
+123562,Employee - 03,Closed,-,Employee - 0109,Employee - 075,11-12-2020 09:56,Customer - 036,-,Summery Issue - 206,11-01-2021 12:11,Defect
+123563,Employee - 01,Closed,Major,Employee - 0110,Employee - 077,27-02-2021 10:52,Customer - 036,High,Summery Issue - 207,11-01-2021 06:23,Development
+123564,Employee - 04,Closed,-,Employee - 075,Employee - 075,29-01-2021 11:27,Customer - 009,High,Summery Issue - 208,11-01-2021 07:00,Development
+123565,Employee - 04,In Progress,-,Employee - 0111,Employee - 077,16-12-2020 10:19,Customer - 033,-,Summery Issue - 209,12-01-2021 01:44,Maintainance
+123566,Employee - 04,Open,-,Employee - 0112,Employee - 31,17-12-2020 10:19,Customer - 009,-,Summery Issue - 210,11-01-2021 07:44,Maintainance
+123567,Employee - 04,Open,Major,Employee - 0104,Employee - 069,18-12-2020 10:19,Customer - 020,High,Summery Issue - 211,12-01-2021 02:09,Maintainance
+123568,Employee - 02,Resolved,-,Employee - 36,Employee - 36,01-03-2021 09:25,Customer - 009,High,Summery Issue - 212,12-01-2021 11:47,Project
+123569,Employee - 02,Resolved,-,Employee - 36,Employee - 36,02-03-2021 09:25,Customer - 009,High,Summery Issue - 213,12-01-2021 02:05,Project
+123570,Employee - 01,Closed,-,Employee - 0114,Employee - 075,02-12-2020 13:43,Customer - 009,-,Summery Issue - 214,11-01-2021 19:08,Development
+123571,Employee - 02,Closed,Major,Employee - 0118,Employee - 069,12-02-2021 10:33,Customer - 022,Medium,Summery Issue - 215,11-01-2021 04:51,Defect
+123572,Employee - 01,Closed,-,Employee - 0117,Employee - 078,04-01-2021 12:00,Customer - 009,-,Summery Issue - 216,11-01-2021 07:57,Development
+123573,Employee - 01,Closed,Major,Employee - 0110,Employee - 078,14-12-2020 15:33,Customer - 009,High,Summery Issue - 217,12-01-2021 04:34,Development
+123574,Employee - 04,Open,Major,Employee - 07,Employee - 075,30-01-2021 11:37,Customer - 037,High,Summery Issue - 218,11-01-2021 04:54,Defect
+123575,Employee - 04,Open,-,Employee - 0120,Employee - 069,14-03-2021 11:46,Customer - 009,-,Summery Issue - 219,11-01-2021 04:43,Maintainance
+123576,Employee - 01,Closed,-,Employee - 0103,Employee - 078,07-03-2021 10:52,Customer - 009,-,Summery Issue - 220,11-01-2021 02:19,Defect
+123577,Employee - 01,Closed,Major,Employee - 50,Employee - 077,16-12-2020 10:54,Customer - 009,High,Summery Issue - 221,13-01-2021 00:03,Development
+123578,Employee - 01,Closed,Major,Employee - 0103,Employee - 36,27-12-2020 16:02,Customer - 004,High,Summery Issue - 222,11-01-2021 17:37,Development
+123579,Employee - 01,Open,-,Employee - 0119,Employee - 075,08-02-2021 09:50,Customer - 038,-,Summery Issue - 223,11-01-2021 06:13,To-Do
+123580,Employee - 02,Closed,-,Employee - 36,Employee - 36,12-02-2021 14:55,Customer - 009,High,Summery Issue - 224,11-01-2021 07:21,QA
+123581,Employee - 02,Resolved,-,Employee - 36,Employee - 36,17-01-2021 15:25,Customer - 009,High,Summery Issue - 225,11-01-2021 09:57,Project
+123582,Employee - 02,Resolved,-,Employee - 36,Employee - 36,17-03-2021 16:34,Customer - 009,High,Summery Issue - 226,12-01-2021 05:21,Project
+123583,Employee - 02,Resolved,-,Employee - 36,Employee - 36,03-03-2021 14:49,Customer - 009,High,Summery Issue - 227,11-01-2021 17:45,Project
+123584,Employee - 02,Open,-,Employee - 36,Employee - 36,17-12-2020 14:45,Customer - 009,High,Summery Issue - 228,12-01-2021 11:23,Project
+123585,Employee - 02,Open,-,Employee - 36,Employee - 36,08-01-2021 13:15,Customer - 009,High,Summery Issue - 229,11-01-2021 19:03,Project
+123586,Employee - 02,Open,-,Employee - 36,Employee - 36,28-12-2020 08:40,Customer - 009,High,Summery Issue - 230,11-01-2021 07:21,Project
+123587,Employee - 02,Open,-,Employee - 36,Employee - 36,17-12-2020 14:45,Customer - 009,High,Summery Issue - 231,14-01-2021 01:57,Project
+123588,Employee - 02,Open,-,Employee - 36,Employee - 36,28-12-2020 08:40,Customer - 009,High,Summery Issue - 232,11-01-2021 13:42,Project
+123589,Employee - 02,Resolved,-,Employee - 36,Employee - 36,22-01-2021 09:21,Customer - 009,High,Summery Issue - 233,11-01-2021 14:11,Project
+123590,Employee - 02,Resolved,-,Employee - 36,Employee - 36,23-01-2021 09:21,Customer - 009,High,Summery Issue - 234,11-01-2021 17:54,Project
+123591,Employee - 02,Resolved,-,Employee - 36,Employee - 36,24-01-2021 09:21,Customer - 009,High,Summery Issue - 235,12-01-2021 07:40,Project
+123592,Employee - 02,Resolved,-,Employee - 36,Employee - 36,25-01-2021 09:21,Customer - 009,High,Summery Issue - 236,12-01-2021 07:42,Project
+123593,Employee - 02,Resolved,-,Employee - 36,Employee - 36,04-02-2021 13:27,Customer - 009,High,Summery Issue - 237,12-01-2021 02:31,Project
+123594,Employee - 02,Resolved,-,Employee - 36,Employee - 36,09-12-2020 15:26,Customer - 009,High,Summery Issue - 238,11-01-2021 08:35,Project
+123595,Employee - 02,Resolved,-,Employee - 36,Employee - 36,13-01-2021 13:22,Customer - 009,High,Summery Issue - 239,10-01-2021 07:27,Project
+123596,Employee - 02,Resolved,-,Employee - 36,Employee - 36,07-01-2021 09:33,Customer - 009,High,Summery Issue - 240,10-01-2021 07:28,Project
+123597,Employee - 02,Resolved,-,Employee - 36,Employee - 36,09-01-2021 15:41,Customer - 009,High,Summery Issue - 241,11-01-2021 04:36,Project
+123598,Employee - 02,Resolved,-,Employee - 36,Employee - 36,30-12-2020 09:02,Customer - 009,High,Summery Issue - 242,11-01-2021 04:56,Project
+123599,Employee - 02,Resolved,-,Employee - 36,Employee - 36,07-03-2021 11:56,Customer - 009,High,Summery Issue - 243,10-01-2021 07:28,Project
+123600,Employee - 02,Resolved,-,Employee - 36,Employee - 36,03-03-2021 09:16,Customer - 009,High,Summery Issue - 244,10-01-2021 07:26,Project
+123601,Employee - 02,Resolved,-,Employee - 36,Employee - 36,10-12-2020 08:39,Customer - 009,High,Summery Issue - 245,10-01-2021 13:06,Project
+123602,Employee - 02,Resolved,-,Employee - 36,Employee - 36,27-02-2021 10:51,Customer - 009,High,Summery Issue - 246,11-01-2021 05:47,Project
+123603,Employee - 05,Open,Major,Employee - 05,Employee - 069,18-01-2021 12:46,Customer - 009,High,Summery Issue - 247,13-01-2021 13:12,Project
+123604,Employee - 01,Closed,Major,Employee - 060,Employee - 078,01-03-2021 16:11,Customer - 009,Medium,Summery Issue - 248,12-01-2021 09:16,Bug
+123605,Employee - 01,Closed,Critical Error,Employee - 11,Employee - 068,25-12-2020 12:51,Customer - 036,High,Summery Issue - 249,11-01-2021 08:40,Defect
+123606,Employee - 04,Closed,-,Employee - 18,Employee - 18,08-01-2021 08:07,Customer - 019,-,Summery Issue - 250,09-01-2021 07:25,Maintainance
+123607,Employee - 04,In Progress,-,Employee - 18,Employee - 18,04-02-2021 10:46,Customer - 009,-,Summery Issue - 251,09-01-2021 07:30,Maintainance
+123608,Employee - 04,Open,-,Employee - 0121,Employee - 068,10-12-2020 08:29,Customer - 004,High,Summery Issue - 252,09-01-2021 07:56,Maintainance
+123609,Employee - 04,Closed,-,Employee - 46,Employee - 46,06-02-2021 11:29,Customer - 009,-,Summery Issue - 253,09-01-2021 05:46,Maintainance
+123610,Employee - 04,Closed,-,Employee - 38,Employee - 38,04-04-2021 11:29,Customer - 009,-,Summery Issue - 254,09-01-2021 06:23,Maintainance
+123611,Employee - 01,Closed,-,Employee - 44,Employee - 39,04-02-2021 11:29,Customer - 020,-,Summery Issue - 255,09-01-2021 07:25,Development
+123612,Employee - 03,Open,Major,Employee - 0122,Employee - 070,04-02-2021 11:29,Customer - 039,High,Summery Issue - 256,09-01-2021 07:24,Defect
+123613,Employee - 01,Closed,-,Employee - 0101,Employee - 071,04-02-2021 11:29,Customer - 009,-,Summery Issue - 257,09-01-2021 10:08,Development
+123614,Employee - 04,Open,-,Employee - 39,Employee - 39,06-02-2021 11:29,Customer - 009,-,Summery Issue - 258,09-01-2021 12:32,Knowledge Transfer
+123615,Employee - 04,Closed,-,Employee - 0111,Employee - 071,06-02-2021 11:29,Customer - 033,-,Summery Issue - 259,09-01-2021 18:45,Maintainance
+123616,Employee - 04,Closed,Major,Employee - 0104,Employee - 38,04-04-2021 11:29,Customer - 020,High,Summery Issue - 260,09-01-2021 18:17,Maintainance
+123617,Employee - 04,Closed,-,Employee - 39,Employee - 39,04-04-2021 11:29,Customer - 009,-,Summery Issue - 261,09-01-2021 19:00,Development
+123618,Employee - 04,Closed,Critical Error,Employee - 12,Employee - 070,04-04-2021 11:29,Customer - 040,High,Summery Issue - 262,09-01-2021 19:16,Maintainance
+123619,Employee - 01,Closed,Critical Error,Employee - 061,Employee - 39,04-02-2021 11:29,Customer - 001,High,Summery Issue - 263,09-01-2021 19:08,Development
+123620,Employee - 01,On Hold,-,Employee - 0123,Employee - 071,06-02-2021 11:29,Customer - 003,-,Summery Issue - 264,09-01-2021 13:27,Development
+123621,Employee - 01,On Hold,-,Employee - 0114,Employee - 070,06-02-2021 11:29,Customer - 009,-,Summery Issue - 265,09-01-2021 14:08,Development
+123622,Employee - 01,On Hold,Major,Employee - 42,Employee - 067,04-02-2021 11:29,Customer - 028,High,Summery Issue - 266,08-01-2021 13:44,Development
+123623,Employee - 01,On Hold,Major,Employee - 11,Employee - 39,04-02-2021 11:29,Customer - 004,High,Summery Issue - 267,08-01-2021 17:23,Development
+123624,Employee - 01,Open,Major,Employee - 11,Employee - 070,04-02-2021 11:29,Customer - 006,High,Summery Issue - 268,11-01-2021 05:34,Defect
+123625,Employee - 01,Closed,Critical Error,Employee - 0124,Employee - 39,10-02-2021 11:29,Customer - 004,High,Summery Issue - 269,08-01-2021 08:40,Development
+123626,Employee - 01,In Progress,-,Employee - 43,-,04-02-2021 11:29,Customer - 041,-,Summery Issue - 270,08-01-2021 15:43,Development
+123627,Employee - 02,Resolved,Critical Error,Employee - 16,Employee - 16,24-02-2021 08:49,Customer - 009,High,Summery Issue - 271,08-01-2021 18:08,Project
+123628,Employee - 01,Closed,-,Employee - 16,Employee - 16,03-02-2021 14:33,Customer - 009,-,Summery Issue - 272,08-01-2021 19:08,Maintainance
+123629,Employee - 01,Awaiting,Minor,Employee - 0125,-,21-02-2021 09:15,Customer - 003,Medium,Summery Issue - 273,08-01-2021 19:13,Development
+123630,Employee - 01,Awaiting,Major,Employee - 51,-,12-12-2020 12:59,Customer - 021,High,Summery Issue - 274,08-01-2021 19:18,Development
+123631,Employee - 01,Awaiting,-,Employee - 43,-,16-02-2021 12:46,Customer - 029,-,Summery Issue - 275,08-01-2021 19:56,Development
+123632,Employee - 01,Closed,Major,Employee - 12,-,26-02-2021 08:09,Customer - 042,High,Summery Issue - 276,08-01-2021 20:01,Development
+123633,Employee - 01,Closed,Minor,Employee - 0106,-,08-02-2021 10:40,Customer - 026,Medium,Summery Issue - 277,08-01-2021 07:58,Development
+123634,Employee - 01,Open,Minor,Employee - 0106,-,26-01-2021 11:57,Customer - 026,Medium,Summery Issue - 278,08-01-2021 08:10,Development
+123635,Employee - 01,Open,-,Employee - 36,-,14-01-2021 09:20,Customer - 009,High,Summery Issue - 279,08-01-2021 08:14,Defect
+123636,Employee - 01,Closed,Minor,Employee - 0126,-,18-03-2021 14:37,Customer - 010,Medium,Summery Issue - 280,08-01-2021 13:21,Development
+123637,Employee - 01,Closed,Major,Employee - 08,-,13-12-2020 15:26,Customer - 022,High,Summery Issue - 281,08-01-2021 14:18,Development
+123638,Employee - 01,Closed,Minor,Employee - 0127,-,08-01-2021 10:31,Customer - 015,Medium,Summery Issue - 282,08-01-2021 16:21,Development
+123639,Employee - 03,Open,-,Employee - 19,Employee - 19,04-01-2021 12:46,Customer - 009,-,Summery Issue - 283,08-01-2021 18:55,Development
+123640,Employee - 02,Open,Warning,Employee - 02,Employee - 02,09-12-2020 11:33,Customer - 009,Low,Summery Issue - 284,08-01-2021 18:57,QA
+123641,Employee - 02,Open,Warning,Employee - 02,Employee - 02,13-02-2021 13:28,Customer - 009,Low,Summery Issue - 285,08-01-2021 19:08,QA
+123642,Employee - 02,Open,Warning,Employee - 02,Employee - 02,08-02-2021 10:22,Customer - 009,Low,Summery Issue - 286,08-01-2021 19:03,QA
+123643,Employee - 01,Open,-,Employee - 52,Employee - 16,12-12-2020 14:13,Customer - 009,-,Summery Issue - 287,12-01-2021 01:23,Maintainance
+123644,Employee - 02,Closed,Major,Employee - 0110,Employee - 16,04-12-2020 08:02,Customer - 009,High,Summery Issue - 288,08-01-2021 07:45,Defect
+123645,Employee - 01,Closed,Minor,Employee - 0127,Employee - 24,20-01-2021 15:13,Customer - 009,Medium,Summery Issue - 289,08-01-2021 07:46,Development
+123646,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,15-02-2021 16:50,Customer - 009,Low,Summery Issue - 290,08-01-2021 07:50,QA
+123647,Employee - 03,Closed,Major,Employee - 0100,Employee - 16,08-02-2021 13:51,Customer - 043,High,Summery Issue - 291,10-01-2021 03:15,Defect
+123648,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,25-12-2020 13:31,Customer - 009,Low,Summery Issue - 292,08-01-2021 04:38,QA
+123649,Employee - 03,Awaiting,Major,Employee - 0100,Employee - 16,15-02-2021 09:18,Customer - 044,High,Summery Issue - 293,08-01-2021 07:07,Defect
+123650,Employee - 01,Awaiting,Major,Employee - 0128,Employee - 24,10-01-2021 13:04,Customer - 020,High,Summery Issue - 294,08-01-2021 06:53,Development
+123651,Employee - 01,Awaiting,Minor,Employee - 062,-,22-12-2020 15:48,Customer - 033,Medium,Summery Issue - 295,08-01-2021 07:55,Development
+123652,Employee - 01,Awaiting,Minor,Employee - 062,-,10-01-2021 16:42,Customer - 033,Medium,Summery Issue - 296,08-01-2021 22:02,Development
+123653,Employee - 02,Awaiting,Warning,Employee - 02,Employee - 02,01-03-2021 16:27,Customer - 009,Low,Summery Issue - 297,08-01-2021 22:13,QA
+123654,Employee - 02,Awaiting,Warning,Employee - 02,Employee - 02,08-03-2021 12:01,Customer - 009,Low,Summery Issue - 298,08-01-2021 07:11,QA
+123655,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,16-03-2021 11:05,Customer - 009,Low,Summery Issue - 299,08-01-2021 07:09,QA
+123656,Employee - 01,Closed,Major,Employee - 0129,-,09-03-2021 15:15,Customer - 045,High,Summery Issue - 300,08-01-2021 02:20,Development
+123657,Employee - 01,Open,Minor,Employee - 064,Employee - 24,20-12-2020 10:46,Customer - 046,Low,Summery Issue - 301,08-01-2021 02:54,Development
+123658,Employee - 01,Open,Minor,Employee - 064,Employee - 24,20-12-2020 10:46,Customer - 046,Medium,Summery Issue - 302,08-01-2021 04:23,Development
+123659,Employee - 01,Open,Minor,Employee - 064,Employee - 24,22-02-2021 14:29,Customer - 046,Low,Summery Issue - 303,08-01-2021 07:45,Development
+123660,Employee - 02,Closed,Warning,Employee - 02,Employee - 02,14-03-2021 13:22,Customer - 009,Low,Summery Issue - 304,08-01-2021 13:21,QA
+123661,Employee - 01,In Progress,Major,Employee - 01,Employee - 01,31-01-2021 09:20,Customer - 047,-,Summery Issue - 305,11-01-2021 07:38,Project
+123662,Employee - 04,Closed,-,Employee - 0120,Employee - 073,23-02-2021 10:37,Customer - 009,-,Summery Issue - 306,08-01-2021 04:07,Maintainance
+123663,Employee - 04,Closed,-,Employee - 24,Employee - 24,03-03-2021 13:28,Customer - 020,-,Summery Issue - 307,08-01-2021 04:16,Development
+123665,Employee - 04,Closed,-,Employee - 24,Employee - 24,26-02-2021 14:43,Customer - 009,-,Summery Issue - 309,08-01-2021 04:23,Development
+123667,Employee - 04,Closed,Critical Error,Employee - 12,Employee - 073,07-02-2021 10:31,Customer - 033,High,Summery Issue - 311,08-01-2021 04:35,Maintainance
+123668,Employee - 04,Closed,-,Employee - 24,Employee - 24,06-03-2021 15:24,Customer - 046,-,Summery Issue - 312,08-01-2021 04:44,Development
+123669,Employee - 04,Closed,-,Employee - 24,Employee - 24,17-12-2020 09:26,Customer - 042,-,Summery Issue - 313,08-01-2021 06:20,Development
+123670,Employee - 01,Closed,-,Employee - 21,Employee - 24,21-01-2021 16:21,Customer - 009,-,Summery Issue - 314,08-01-2021 05:15,Development
+123671,Employee - 01,Closed,-,Employee - 069,-,28-12-2020 10:46,Customer - 009,-,Summery Issue - 315,09-01-2021 06:36,Defect
+123672,Employee - 01,In Progress,-,Employee - 01,Employee - 01,30-01-2021 10:20,Customer - 046,-,Summery Issue - 316,08-01-2021 11:41,Project
+123673,Employee - 01,Closed,-,Employee - 0108,Employee - 077,13-01-2021 16:17,Customer - 009,High,Summery Issue - 317,11-01-2021 04:45,Maintainance
+123674,Employee - 01,Closed,-,Employee - 079,Employee - 079,08-12-2020 13:39,Customer - 048,-,Summery Issue - 318,10-01-2021 12:53,Maintainance
+123676,Employee - 04,Closed,Critical Error,Employee - 13,Employee - 069,23-02-2021 14:28,Customer - 009,High,Summery Issue - 320,09-01-2021 06:25,Maintainance
+123677,Employee - 01,Closed,-,Employee - 079,Employee - 079,04-12-2020 10:00,Customer - 009,-,Summery Issue - 321,11-01-2021 04:50,Maintainance
+123678,Employee - 01,In Progress,-,Employee - 079,Employee - 079,13-03-2021 09:07,Customer - 009,-,Summery Issue - 322,11-01-2021 02:44,Maintainance
+123679,Employee - 01,In Progress,-,Employee - 0114,Employee - 079,29-12-2020 12:46,Customer - 045,-,Summery Issue - 323,11-01-2021 02:56,Custom-Type-2
+123680,Employee - 01,In Progress,-,Employee - 077,Employee - 077,02-03-2021 08:19,Customer - 009,-,Summery Issue - 324,10-01-2021 13:21,Maintainance
+123681,Employee - 01,In Progress,Major,Employee - 14,Employee - 069,26-02-2021 16:43,Customer - 009,High,Summery Issue - 325,08-01-2021 03:00,Development
+123682,Employee - 01,In Progress,Major,Employee - 10,Employee - 36,12-02-2021 11:55,Customer - 009,High,Summery Issue - 326,13-01-2021 00:01,Defect
+123683,Employee - 04,Closed,Critical Error,Employee - 55,Employee - 069,13-12-2020 11:08,Customer - 009,High,Summery Issue - 327,08-01-2021 03:30,Maintainance
+123684,Employee - 04,Closed,-,Employee - 065,Employee - 065,04-03-2021 10:20,Customer - 003,-,Summery Issue - 328,08-01-2021 03:37,Maintainance
+123686,Employee - 04,In Progress,Error,Employee - 25,Employee - 075,22-12-2020 09:33,Customer - 029,High,Summery Issue - 330,08-01-2021 03:46,Maintainance
+123687,Employee - 04,Closed,Major,Employee - 12,Employee - 077,07-02-2021 10:01,Customer - 022,High,Summery Issue - 331,08-01-2021 03:57,Maintainance
+123688,Employee - 01,Closed,Major,Employee - 08,Employee - 36,05-01-2021 09:46,Customer - 009,High,Summery Issue - 332,07-01-2021 10:28,Bug
+123689,Employee - 01,Closed,Major,Employee - 0124,Employee - 077,12-03-2021 14:19,Customer - 009,High,Summery Issue - 333,10-01-2021 13:11,Development
+123690,Employee - 01,Resolved,-,Employee - 36,Employee - 36,01-02-2021 14:11,Customer - 016,-,Summery Issue - 334,14-01-2021 00:42,Recovery
+123691,Employee - 02,Closed,-,Employee - 36,Employee - 36,11-01-2021 14:42,Customer - 042,High,Summery Issue - 335,11-01-2021 02:31,QA
+123692,Employee - 02,Resolved,-,Employee - 36,Employee - 36,15-03-2021 12:24,Customer - 022,High,Summery Issue - 336,11-01-2021 02:35,Security
+123693,Employee - 01,Resolved,-,Employee - 36,Employee - 36,05-12-2020 10:37,Customer - 019,High,Summery Issue - 337,08-01-2021 06:12,Custom-Type
+123694,Employee - 04,Closed,-,Employee - 067,Employee - 067,17-03-2021 09:37,Customer - 007,-,Summery Issue - 338,07-01-2021 07:46,Maintainance
+123695,Employee - 04,Closed,-,Employee - 0130,Employee - 070,02-02-2021 09:03,Customer - 004,-,Summery Issue - 339,12-01-2021 11:38,Maintainance
+123696,Employee - 04,Closed,Major,Employee - 08,Employee - 38,26-02-2021 09:04,Customer - 009,High,Summery Issue - 340,08-01-2021 04:03,Maintainance
+123697,Employee - 04,Closed,-,Employee - 38,Employee - 38,17-12-2020 16:12,Customer - 009,-,Summery Issue - 341,10-01-2021 12:50,Maintainance
+123698,Employee - 04,Closed,-,Employee - 38,Employee - 38,16-12-2020 15:29,Customer - 009,-,Summery Issue - 342,08-01-2021 07:41,Maintainance
+123699,Employee - 01,In Progress,Error,Employee - 25,Employee - 080,21-01-2021 15:11,Customer - 042,High,Summery Issue - 343,08-01-2021 18:32,Database
+123700,Employee - 01,Closed,-,Employee - 44,Employee - 39,17-12-2020 15:35,Customer - 022,-,Summery Issue - 344,08-01-2021 07:51,Development
+123701,Employee - 01,Closed,Major,Employee - 0104,Employee - 39,18-02-2021 15:12,Customer - 009,High,Summery Issue - 345,12-01-2021 06:23,Development
+123703,Employee - 01,Closed,-,Employee - 0132,Employee - 070,13-01-2021 13:53,Customer - 009,High,Summery Issue - 347,07-01-2021 01:45,To-Do
+123704,Employee - 04,Closed,-,Employee - 46,Employee - 46,25-12-2020 13:43,Customer - 016,-,Summery Issue - 348,07-01-2021 05:27,Maintainance
+123705,Employee - 04,Open,Major,Employee - 07,Employee - 068,17-01-2021 16:13,Customer - 020,High,Summery Issue - 349,07-01-2021 05:49,Defect
+123706,Employee - 04,Closed,-,Employee - 067,Employee - 067,13-01-2021 10:00,Customer - 020,-,Summery Issue - 350,07-01-2021 05:52,Maintainance
+123707,Employee - 04,Closed,-,Employee - 37,Employee - 37,30-12-2020 11:01,Customer - 020,-,Summery Issue - 351,11-01-2021 04:14,Maintainance
+123708,Employee - 01,Resolved,-,Employee - 36,Employee - 36,19-01-2021 13:25,Customer - 009,-,Summery Issue - 352,07-01-2021 06:25,Recovery
+123709,Employee - 01,Resolved,-,Employee - 36,Employee - 36,30-01-2021 13:02,Customer - 009,-,Summery Issue - 353,07-01-2021 06:27,Custom-Type
+123710,Employee - 01,Open,Major,Employee - 0104,Employee - 079,20-12-2020 10:46,Customer - 049,High,Summery Issue - 354,09-01-2021 07:48,Maintainance
+123711,Employee - 01,Closed,Major,Employee - 0104,Employee - 079,18-12-2020 13:24,Customer - 009,High,Summery Issue - 355,07-01-2021 07:49,Maintainance
+123712,Employee - 01,Closed,-,Employee - 079,Employee - 079,06-12-2020 09:11,Customer - 009,-,Summery Issue - 356,07-01-2021 07:53,Maintainance
+123713,Employee - 04,Resolved,-,Employee - 31,Employee - 31,31-12-2020 10:25,Customer - 009,-,Summery Issue - 357,07-01-2021 08:01,Maintainance
+123714,Employee - 04,Closed,-,Employee - 065,Employee - 065,12-02-2021 09:40,Customer - 009,-,Summery Issue - 358,07-01-2021 09:36,Maintainance
+123715,Employee - 04,Closed,-,Employee - 30,Employee - 30,15-01-2021 14:04,Customer - 020,-,Summery Issue - 359,07-01-2021 01:07,Maintainance
+123716,Employee - 02,Closed,Critical Error,Employee - 02,Employee - 16,05-12-2020 16:40,Customer - 020,High,Summery Issue - 360,07-01-2021 21:15,Maintainance
+123717,Employee - 01,Closed,Minor,Employee - 0133,-,06-02-2021 12:23,Customer - 009,Medium,Summery Issue - 361,07-01-2021 01:22,Development
+123718,Employee - 01,Closed,Minor,Employee - 0133,-,17-01-2021 15:33,Customer - 009,Medium,Summery Issue - 362,07-01-2021 04:12,Development
+123720,Employee - 03,Closed,Major,Employee - 060,Employee - 16,22-02-2021 09:06,Customer - 009,High,Summery Issue - 364,07-01-2021 03:01,Defect
+123721,Employee - 03,Closed,Major,Employee - 20,Employee - 03,18-03-2021 08:41,Customer - 009,Medium,Summery Issue - 365,07-01-2021 05:42,Defect
+123722,Employee - 01,Closed,Critical Error,Employee - 0108,Employee - 16,04-03-2021 10:27,Customer - 009,High,Summery Issue - 366,07-01-2021 21:14,Bug
+123723,Employee - 04,Resolved,-,Employee - 31,Employee - 31,11-12-2020 08:00,Customer - 032,-,Summery Issue - 367,07-01-2021 02:23,Custom-Type
+123724,Employee - 04,Closed,-,Employee - 30,Employee - 30,08-01-2021 14:00,Customer - 032,-,Summery Issue - 368,07-01-2021 02:51,Maintainance
+123725,Employee - 04,Closed,-,Employee - 065,Employee - 065,14-03-2021 12:02,Customer - 020,-,Summery Issue - 369,11-01-2021 09:18,Development
+123726,Employee - 04,Closed,Major,Employee - 075,Employee - 075,09-12-2020 16:08,Customer - 020,High,Summery Issue - 370,07-01-2021 05:38,Development
+123727,Employee - 04,Closed,-,Employee - 065,Employee - 065,06-02-2021 15:27,Customer - 019,-,Summery Issue - 371,07-01-2021 05:12,Development
+123728,Employee - 04,Closed,-,Employee - 39,Employee - 39,21-02-2021 15:28,Customer - 020,-,Summery Issue - 372,07-01-2021 06:01,Development
+123729,Employee - 04,Closed,-,Employee - 37,Employee - 37,05-03-2021 13:47,Customer - 009,-,Summery Issue - 373,07-01-2021 07:43,Maintainance
+123730,Employee - 04,Closed,-,Employee - 067,Employee - 067,31-12-2020 13:48,Customer - 009,-,Summery Issue - 374,13-01-2021 14:19,Maintainance
+123731,Employee - 01,Closed,-,Employee - 070,Employee - 070,07-02-2021 08:38,Customer - 009,-,Summery Issue - 375,07-01-2021 08:04,Maintainance
+123732,Employee - 04,Closed,-,Employee - 18,Employee - 18,01-12-2020 16:47,Customer - 002,-,Summery Issue - 376,07-01-2021 03:41,Maintainance
+123733,Employee - 04,Open,-,Employee - 18,Employee - 18,22-02-2021 14:29,Customer - 029,High,Summery Issue - 377,12-01-2021 05:54,Development
+123734,Employee - 04,Open,-,Employee - 18,Employee - 18,22-02-2021 14:29,Customer - 009,High,Summery Issue - 378,07-01-2021 15:44,Development
+123735,Employee - 04,Open,-,Employee - 18,Employee - 18,22-02-2021 14:29,Customer - 009,-,Summery Issue - 379,13-01-2021 19:55,Development
+123736,Employee - 04,Open,-,Employee - 18,Employee - 18,22-02-2021 14:29,Customer - 009,-,Summery Issue - 380,10-01-2021 08:42,Development
+123737,Employee - 04,Open,-,Employee - 18,Employee - 18,22-02-2021 14:29,Customer - 009,-,Summery Issue - 381,07-01-2021 21:21,Maintainance
+123738,Employee - 01,Closed,Critical Error,Employee - 20,Employee - 18,22-02-2021 14:29,Customer - 019,High,Summery Issue - 382,07-01-2021 21:27,Maintainance
+123740,Employee - 01,Closed,Critical Error,Employee - 11,Employee - 18,12-02-2021 09:24,Customer - 004,High,Summery Issue - 384,07-01-2021 21:30,Defect
+123741,Employee - 01,Closed,Critical Error,Employee - 064,Employee - 18,28-02-2021 09:10,Customer - 020,High,Summery Issue - 385,07-01-2021 21:34,Defect
+123742,Employee - 04,Closed,-,Employee - 068,Employee - 068,07-01-2021 13:37,Customer - 036,-,Summery Issue - 386,08-01-2021 07:06,Custom-Type-2
+123743,Employee - 04,Closed,-,Employee - 46,Employee - 46,12-02-2021 12:11,Customer - 033,-,Summery Issue - 387,10-01-2021 06:28,Maintainance
+123744,Employee - 04,Closed,-,Employee - 18,Employee - 18,03-02-2021 16:40,Customer - 009,-,Summery Issue - 388,07-01-2021 07:49,Development
+123745,Employee - 04,Closed,-,Employee - 18,Employee - 18,28-02-2021 16:44,Customer - 047,-,Summery Issue - 389,07-01-2021 08:00,Development
+123746,Employee - 04,Closed,-,Employee - 18,Employee - 18,03-02-2021 08:31,Customer - 009,-,Summery Issue - 390,08-01-2021 08:27,Development
+123747,Employee - 04,Closed,-,Employee - 18,Employee - 18,25-12-2020 14:52,Customer - 037,-,Summery Issue - 391,11-01-2021 09:17,Development
+123748,Employee - 04,Closed,Major,Employee - 18,Employee - 18,10-03-2021 13:01,Customer - 046,-,Summery Issue - 392,13-01-2021 09:00,Development
+123749,Employee - 04,Closed,Minor,Employee - 18,Employee - 18,08-12-2020 11:06,Customer - 009,-,Summery Issue - 393,10-01-2021 03:00,Development
+123750,Employee - 04,Closed,-,Employee - 18,Employee - 18,12-01-2021 16:53,Customer - 009,-,Summery Issue - 394,12-01-2021 08:42,Maintainance
+123751,Employee - 04,Closed,-,Employee - 37,Employee - 37,09-01-2021 13:42,Customer - 044,-,Summery Issue - 395,07-01-2021 18:38,Maintainance
+123752,Employee - 04,Closed,-,Employee - 39,Employee - 39,03-03-2021 11:12,Customer - 040,-,Summery Issue - 396,07-01-2021 07:36,Development
+123753,Employee - 04,Closed,-,Employee - 067,Employee - 067,05-03-2021 10:48,Customer - 015,-,Summery Issue - 397,07-01-2021 07:49,Maintainance
+123754,Employee - 04,Closed,Major,Employee - 35,Employee - 38,06-12-2020 10:38,Customer - 053,High,Summery Issue - 398,07-01-2021 08:01,To-Do
+123755,Employee - 04,Closed,-,Employee - 38,Employee - 38,06-01-2021 09:09,Customer - 002,-,Summery Issue - 399,07-01-2021 11:23,Maintainance
+123756,Employee - 04,Closed,-,Employee - 38,Employee - 38,18-12-2020 13:46,Customer - 045,-,Summery Issue - 400,07-01-2021 12:26,Maintainance
+123757,Employee - 04,Closed,-,Employee - 38,Employee - 38,28-02-2021 11:38,Customer - 009,-,Summery Issue - 401,08-01-2021 12:10,Maintainance
+123758,Employee - 04,Closed,-,Employee - 38,Employee - 38,18-02-2021 11:10,Customer - 009,-,Summery Issue - 402,07-01-2021 22:53,Maintainance
+123759,Employee - 04,Closed,-,Employee - 38,Employee - 38,06-03-2021 13:30,Customer - 009,-,Summery Issue - 403,07-01-2021 22:55,Maintainance
+123760,Employee - 04,Closed,-,Employee - 38,Employee - 38,10-03-2021 16:21,Customer - 009,-,Summery Issue - 404,11-01-2021 05:35,Maintainance
+123761,Employee - 04,Closed,Major,Employee - 066,Employee - 075,11-02-2021 09:02,Customer - 051,High,Summery Issue - 405,10-01-2021 10:27,Development
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

@@ -1,0 +1,31 @@
+{
+   "KeyMapping": {
+      "VarMapping": {
+         "identifier": "Issue ID",
+         "status": "Status",
+         "reported_by": "Reported by",
+         "assigned_to": "Technical Lead",
+         "coded_by": "Assignee",
+         "severity": "Severity",
+         "priority": "Priority",
+         "customer": "Customer",
+         "created_date": "Created Date",
+         "closed_date": "Closed Date",
+         "issue_type": "Issue Type"
+      },
+      "FieldMapping": {
+         "IssueID": "Issue ID",
+         "Status": "Status",
+         "Reporter": "Reported by",
+         "Responsible": "Technical Lead",
+         "Assignee": "Assignee",
+         "Severity": "Severity",
+         "Priority": "Priority",
+         "CustomerName": "Customer",
+         "CreatedDate": "Created Date",
+         "ClosedDate": "Closed Date",
+         "Type": "Issue Type"
+      }
+   },
+   "DateFormat": "%d-%m-%Y %H:%M"
+}
