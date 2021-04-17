@@ -26,8 +26,8 @@ To install the project clone repository to local machine or download zip of the 
 After getting project directory on local machine project can be run by following command
 
 ```
-	python index.py                 #on windows
-	python3 index.py                #on linux if old python installation has been kept for backward compatibility 
+python index.py                 #on windows
+python3 index.py                #on linux if old python installation has been kept for backward compatibility 
 ```
 
 ./datasets folder contains a sample .csv file which is used as datasource in current scenario.
