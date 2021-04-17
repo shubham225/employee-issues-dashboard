@@ -39,18 +39,18 @@ updating csv file from remote SQL server/datasource will be added in next revisi
 ### Home
 This page will have graphs and charts of the employee tickets analytics.
 
-![alt text](https://github.com/shubham225/kali-gnome-menu-fix/blob/main/docs/imgs/homepage.png)
+![alt text](https://github.com/shubham225/employee-issues-dashboard/blob/main/docs/imgs/homepage.png)
 
 ### Overview
 
 This page will have detailed information in tabular format and can have no. of critial issues.
 
-![alt text](https://github.com/shubham225/kali-gnome-menu-fix/blob/main/docs/imgs/overview.png)
+![alt text](https://github.com/shubham225/employee-issues-dashboard/blob/main/docs/imgs/overview.png)
 
 ### Settings
 This page contains the setup related part of the application, currently it has mapping table which is used top map the excel sheet columns to application specific fields and date format related info of the dataset sheet.
 
-![alt text](https://github.com/shubham225/kali-gnome-menu-fix/blob/main/docs/imgs/settings.png)
+![alt text](https://github.com/shubham225/employee-issues-dashboard/blob/main/docs/imgs/settings.png)
 
 This option will include advanced options such as datasource setup and user login management.
 
